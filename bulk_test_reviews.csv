@@ -1,0 +1,31 @@
+review_id,product_name,review_category,review_type,customer_review,expected_sentiment
+1,AuraSound Pro Headphones,Audio Quality,Strong Positive,"The active noise cancellation is unmatched and the acoustic clarity brings out every subtle detail in my favorite tracks. Pure perfection!",Positive
+2,AuraSound Pro Headphones,Build & Durability,Strong Negative,"The plastic headband snapped right in half after only two weeks of gentle use. Unacceptable build quality for a premium product.",Negative
+3,AuraSound Pro Headphones,Audio & Price,Complex Negation,"I was worried the sound would be muddy, but it is not bad at all. In fact, it exceeded every expectation I had.",Positive
+4,AuraSound Pro Headphones,Performance,Contrasting Mixed,"The earcups feel luxurious and comfortable, but the audio constantly stutters and cuts out every ten seconds. Terribly frustrating.",Negative
+5,AuraSound Pro Headphones,Overall Experience,Short Positive,"Best headphones I have ever owned. Worth every single penny!",Positive
+6,AuraSound Pro Headphones,Overall Experience,Short Negative,"Absolute garbage. Do not waste your hard-earned money on this.",Negative
+7,AuraSound Pro Headphones,Battery Life,Strong Positive,"Battery life is mind-blowing! I used them for an entire week on a single charge during daily train commutes.",Positive
+8,AuraSound Pro Headphones,Battery Life,Strong Negative,"The battery refuses to charge past 15% and dies within twenty minutes of unplugging. Completely useless.",Negative
+9,AuraSound Pro Headphones,Value & Comparison,Subtle Negation,"This is definitely not the cheapest headset around, but it is certainly not a regretful purchase either. Very happy with it.",Positive
+10,AuraSound Pro Headphones,Customer Support,Strong Negative,"Customer support took two weeks to reply and refused to honor the manufacturer warranty. Horrible company policies.",Negative
+11,AuraSound Pro Headphones,Customer Support,Strong Positive,"Accidentally misplaced my charging cable and customer service sent me a complimentary replacement with next-day shipping. Remarkable service!",Positive
+12,AuraSound Pro Headphones,Connectivity,Subtle Negation,"Pairing with multiple devices was not complicated whatsoever. Connected seamlessly to my laptop and phone simultaneously.",Positive
+13,AuraSound Pro Headphones,Connectivity,Strong Negative,"Bluetooth connectivity drops every time I walk into another room. Signal range is pathetic.",Negative
+14,AuraSound Pro Headphones,Comfort & Ergonomics,Strong Positive,"Memory foam ear cushions are heavenly. I wore them for an 8-hour transatlantic flight without any ear fatigue or sweating.",Positive
+15,AuraSound Pro Headphones,Comfort & Ergonomics,Strong Negative,"The clamping force gives me severe tension headaches within thirty minutes. Painful and heavy to wear.",Negative
+16,AuraSound Pro Headphones,Microphone Quality,Contrasting Mixed,"Music playback sounds fantastic, but the built-in microphone makes me sound like I am speaking underwater on Zoom calls.",Negative
+17,AuraSound Pro Headphones,Software & App,Strong Negative,"The companion mobile app is full of bugs, crashes continuously on startup, and fails to update the firmware.",Negative
+18,AuraSound Pro Headphones,Software & App,Strong Positive,"The companion app equalizer gives you granular control over frequencies. Preset profiles are genuinely well-tuned.",Positive
+19,AuraSound Pro Headphones,Shipping & Packaging,Strong Negative,"Package arrived soaking wet with the retail box crushed. One of the earcups was badly scuffed before I even powered it on.",Negative
+20,AuraSound Pro Headphones,Shipping & Packaging,Strong Positive,"Arrived two days ahead of schedule in pristine condition. Packaging feels like opening a luxury high-end flagship gadget.",Positive
+21,AuraSound Pro Headphones,Everyday Usability,Sarcastic Negative,"If you enjoy listening to static white noise and having your calls abruptly drop, then this is the perfect product for you.",Negative
+22,AuraSound Pro Headphones,Overall Impression,Surprise Positive,"Given the mixed opinions online, I thought I would dislike them, but honestly I am completely blown away by how good they are.",Positive
+23,AuraSound Pro Headphones,Audio & Bass,Subtle Negation,"The bass is not overwhelming or boomy like other brands; it is tight, punchy, and well-balanced across mids and highs.",Positive
+24,AuraSound Pro Headphones,Hardware Failure,Strong Negative,"The left speaker started buzzing loudly on day four and completely stopped emitting sound yesterday. Returning for a refund.",Negative
+25,AuraSound Pro Headphones,Noise Cancellation,Strong Positive,"Tested these on a crowded subway train and the ambient rumble disappeared like magic. ANC technology here is state of the art.",Positive
+26,AuraSound Pro Headphones,Durability,Subtle Negation,"I accidentally dropped them on hardwood floor twice and there is not even a single scratch or loose component.",Positive
+27,AuraSound Pro Headphones,Value for Money,Strong Negative,"Way overpriced for the mediocre performance. Competitors at half this price deliver significantly better sound and reliability.",Negative
+28,AuraSound Pro Headphones,Gaming & Latency,Contrasting Mixed,"Great for listening to podcasts and acoustic music, but there is noticeable audio lag when playing competitive mobile games.",Negative
+29,AuraSound Pro Headphones,Gifting Experience,Strong Positive,"Bought this as an anniversary gift for my spouse and they have not taken them off since. Beautiful sleek aesthetic and premium finish.",Positive
+30,AuraSound Pro Headphones,Smell & Materials,Strong Negative,"The chemical odor coming off the synthetic leather cushions made my entire bedroom smell like burnt rubber. Disgusting.",Negative

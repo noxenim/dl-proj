@@ -260,16 +260,22 @@ elif nav_choice == "📂 Bulk Reviews (CSV Upload)":
             
         with col_samp:
             st.markdown("<br>", unsafe_allow_html=True)
-            use_sample = st.button("📁 Load Provided Sample Dataset (25 Reviews)", use_container_width=True)
+            col_b1, col_b2 = st.columns(2)
+            with col_b1:
+                use_headphones = st.button("🎧 Single-Product (30 Reviews)", use_container_width=True)
+            with col_b2:
+                use_sample = st.button("🛍️ Multi-Product (25 Reviews)", use_container_width=True)
             
         df_to_analyze = None
         if uploaded_file is not None:
             df_to_analyze = pd.read_csv(uploaded_file)
             st.success(f"Uploaded CSV loaded successfully ({len(df_to_analyze)} rows).")
-        elif use_sample or os.path.exists("sample_reviews.csv"):
-            if use_sample:
-                df_to_analyze = pd.read_csv("sample_reviews.csv")
-                st.info("Loaded pre-configured sample reviews covering various product domains.")
+        elif use_headphones and os.path.exists("bulk_test_reviews.csv"):
+            df_to_analyze = pd.read_csv("bulk_test_reviews.csv")
+            st.info("Loaded AuraSound Pro Headphones review test dataset (30 diverse reviews).")
+        elif use_sample and os.path.exists("sample_reviews.csv"):
+            df_to_analyze = pd.read_csv("sample_reviews.csv")
+            st.info("Loaded pre-configured multi-product review dataset (25 reviews).")
                 
         if df_to_analyze is not None:
             st.write("### Data Preview")

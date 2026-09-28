@@ -1,0 +1,11 @@
+{
+    "vocab_size": 15000,
+    "max_len": 100,
+    "embedding_dim": 64,
+    "lstm_units": 64,
+    "batch_size": 64,
+    "epochs": 4,
+    "threshold": 0.5,
+    "training_samples": 19200,
+    "test_samples": 4800
+}

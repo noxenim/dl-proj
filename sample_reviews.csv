@@ -1,0 +1,26 @@
+review_id,product_category,customer_review,actual_sentiment
+1,Electronics,"The sound quality on these noise-cancelling headphones is phenomenal! Battery easily lasts 30+ hours.",Positive
+2,Electronics,"Stopped working completely after just three weeks. Won't charge and customer support was completely unhelpful.",Negative
+3,Home & Kitchen,"This espresso machine brews barista-quality coffee every morning. Solid build and easy to clean.",Positive
+4,Home & Kitchen,"Cheap plastic parts broke during the very first wash. Total waste of money, do not recommend!",Negative
+5,Books,"An inspiring and beautifully written book that kept me hooked from chapter one. A masterpiece.",Positive
+6,Books,"Terrible plot pacing and flat characters. Couldn't even bring myself to finish the third chapter.",Negative
+7,Clothing,"Fabric is incredibly soft and the stitching is top tier. Fits true to size and looks very elegant.",Positive
+8,Clothing,"Size chart is completely inaccurate. Shrunk by two sizes after a cold gentle wash. Very disappointed.",Negative
+9,Sports & Fitness,"Extremely durable resistance bands. Great tension range and came with an excellent workout guide.",Positive
+10,Sports & Fitness,"Yoga mat has a pungent toxic rubber smell that gave me a headache. Slippery surface as well.",Negative
+11,Beauty & Care,"Hydrates deeply without feeling greasy on the skin. My acne cleared up significantly in two weeks.",Positive
+12,Beauty & Care,"Caused severe allergic skin irritation and redness within twenty minutes of application. Returning immediately.",Negative
+13,Automotive,"Installation was effortless and the LED brightness illuminates the road safely in heavy fog.",Positive
+14,Automotive,"Flickers uncontrollably and burned out within a month. Cheaply manufactured knock-off.",Negative
+15,Gaming,"The mechanical switches feel crisp and the RGB lighting customization is intuitive and smooth.",Positive
+16,Gaming,"Controller suffers from horrendous analog stick drift right out of the sealed box. Unplayable.",Negative
+17,Office Supplies,"Smooth ink flow with zero smudging on standard notebook paper. Great value pack for students.",Positive
+18,Office Supplies,"The stapler jams every five staples. Flimsy metal and frustrating to use in a busy office.",Negative
+19,Toys & Games,"Kids spent hours assembling the puzzle. High quality cardboard pieces that fit snugly.",Positive
+20,Toys & Games,"Missing half of the critical construction pieces and the instruction manual was torn. Returning.",Negative
+21,Customer Service,"Customer support resolved my shipping replacement within two hours. Exemplary service!",Positive
+22,Customer Service,"Ignored three emails and kept me on hold for an hour without resolving the billing discrepancy.",Negative
+23,Grocery,"Fresh, aromatic organic dark roast coffee beans. Packed securely with one-way degassing valve.",Positive
+24,Grocery,"Stale taste and expired three months before delivery date. Disgusting quality control.",Negative
+25,Electronics,"Fast delivery, sleek minimalist design, and crystal clear 4K display. Absolutely thrilled with this purchase!",Positive
